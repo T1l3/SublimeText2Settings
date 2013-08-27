@@ -1,0 +1,18 @@
+{
+	"file_exclude_patterns":
+	[
+		".DS_Store"
+	],
+	"folder_exclude_patterns":
+	[
+		".sass-cache",
+		"tmp"
+	],
+	"font_size": 12.0,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Nexus.sublime-theme",
+	"word_wrap": true
+}
