@@ -3,7 +3,7 @@ SublimeText2Settings
 
 Just my Sublime Text 2 config
 
-#Packages
+# Packages
 
 - "Alignment",
 - "ApplySyntax",
@@ -20,7 +20,14 @@ Just my Sublime Text 2 config
 - "ZenCoding"
 
 
-#Theme
+# Theme
+
 [Nexus Theme](https://github.com/EleazarCrusader/nexus-theme)
 
+# Import
 
+```
+cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
+mv User User.old
+git clone git@github.com:T1l3/SublimeText2Settings.git User
+```
