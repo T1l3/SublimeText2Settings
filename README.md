@@ -7,28 +7,20 @@ Just my Sublime Text 2 config
 
 - "Alignment",
 - "ApplySyntax",
-- "Behat",
-- "Behat Features",
 - "BracketHighlighter",
-- "Clipboard History",
 - "DocBlockr",
-- "Drupal",
-- "Drupal Project Autocomplete",
-- "Drupal Snippets",
-- "Git",
-- "HTML5",
 - "HtmlTidy",
 - "jQuery",
+- "JavaScript Completions",
 - "Package Control",
 - "PHP-Twig",
-- "Sass",
-- "sublime-symfony",
-- "Symfony2 Snippets",
+- "Pretty JSON",
 - "Theme - Nexus",
-- "Todo",
 - "TrailingSpaces",
 - "ZenCoding"
 
 
 #Theme
 [Nexus Theme](https://github.com/EleazarCrusader/nexus-theme)
+
+
