@@ -15,6 +15,7 @@ Just my Sublime Text 2 config
 - "Package Control",
 - "PHP-Twig",
 - "Pretty JSON",
+- "Sass",
 - "Theme - Nexus",
 - "TrailingSpaces",
 - "ZenCoding"

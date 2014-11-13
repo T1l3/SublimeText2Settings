@@ -17,5 +17,7 @@
 	"scroll_past_end": true,
 	"theme": "Nexus.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"word_wrap": true
+	"word_wrap": true,
+    "folder_exclude_patterns": [".git", ".sass-cache", "app/cache"],
+    "file_exclude_patterns": [".DS_Store", "._*"]
 }
